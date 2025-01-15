@@ -1,7 +1,7 @@
 # CSC 305 - Introduction to Computer Graphics - Spring 2022
 
 ### Course Instructor
-*Teseo Schneider*
+*Ben Kung*
 
 [http://web.uvic.ca/~teseo/](http://web.uvic.ca/~teseo/)
 
