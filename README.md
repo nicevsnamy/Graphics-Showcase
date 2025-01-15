@@ -1,4 +1,4 @@
-# A graphics and modelling showcase
+# A graphics showcase
 *Ben Kung*
 
 ## Graphics ##
@@ -11,7 +11,3 @@ Used Raytracing to draw a bunny from a set of vertices
 
 Created a dynamic gif of a rotating bunny in space
 ![flat_shading_rotate](https://github.com/user-attachments/assets/071f31d4-6b64-4a8f-801d-678a69280732)
-
-## Modeling ##
-
-Programmatically subdivide a Cube into vertices
