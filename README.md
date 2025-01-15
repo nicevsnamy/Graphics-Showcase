@@ -1,6 +1,6 @@
 # A graphics showcase
 A brief highlight of some projects using C++ and Python to create computer graphics and models
-*Ben Kung*
+By *Ben Kung*
 
 ## Graphics ##
 Created a dynamic gif of a rotating bunny in space
